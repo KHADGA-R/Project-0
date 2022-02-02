@@ -1,0 +1,29 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Æ°Š
+P	java:S125)"<This block of commented-out lines of code should be removed.(©’÷M
+V	java:S125+"<This block of commented-out lines of code should be removed.(ıàƒëùÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(Ø¸Èü
+J
+java:S1128"4Remove this unused import 'BankingApplication.daos'.(ê‰
+Y
+java:S1128">Remove this unused import 'BankingApplication.models.Account'.(øÆ †üÿÿÿÿ
+Q
+java:S1128	";Remove this unused import 'BankingApplication.models.Type'.(“Ş
+Z
+java:S1128"DRemove this unused import 'BankingApplication.utils.ConnectionUtil'.(˜«–ú
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+R
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+E
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+`
+java:S1192L"JDefine a constant instead of duplicating this literal "/customer" 3 times.(æÑÉ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ÔŒ·ûÿÿÿÿ
+[
+java:S2095G"EUse try-with-resources or close this "Javalin" in a "finally" clause.(ºå

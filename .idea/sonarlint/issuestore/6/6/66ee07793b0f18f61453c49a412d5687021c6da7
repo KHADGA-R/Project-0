@@ -1,0 +1,15 @@
+
+d
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(û¿ß„şÿÿÿÿ8úÁ¾îê/
+]
+java:S1128"@Remove this unused import 'BankingApplication.daos.CustomerDao'.(ĞË¨ê8ûÁ¾îê/
+a
+java:S1128"DRemove this unused import 'BankingApplication.daos.CustomerDaoImpl'.(³±ûÁ8ûÁ¾îê/
+`
+java:S1128">Remove this unused import 'BankingApplication.models.Account'.(øÆ †üÿÿÿÿ8ûÁ¾îê/
+\
+java:S1128"?Remove this unused import 'BankingApplication.models.Customer'.(–Îéù8ûÁ¾îê/
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¨à»îê/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÄˆ§ıÿÿÿÿ
